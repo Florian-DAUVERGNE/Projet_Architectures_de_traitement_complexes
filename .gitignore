@@ -1,3 +1,6 @@
 unprocessed_datasets
 processed_datasets
 .vs
+normal_split
+logo_split
+dataset.zip
